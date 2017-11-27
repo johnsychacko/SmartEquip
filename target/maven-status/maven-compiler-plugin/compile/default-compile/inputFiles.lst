@@ -1,0 +1,15 @@
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/config/DBConfiguration.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/dto/Question.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/dao/impl/QuestionDaoImpl.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/WebResponse.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/controller/IQController.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/DBResponse.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/dao/QuestionDao.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/Messages.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/OpCode.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/Response.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/SmartEquipApplication.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/ServiceResponse.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/service/QuestionService.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/utils/StringUtils.java
+/Users/johnsychacko/Downloads/SmartEquip/src/main/java/com/smart/equip/service/impl/QuestionServiceImpl.java
